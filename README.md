@@ -6,7 +6,7 @@ Analyzed 500K+ retail transactions to identify high-value, loyal, at-risk, and i
 
 ## 🛠 Tools Used
 
-PostgreSQL 18 • SQL (CTEs, Window Functions, NTILE, CASE WHEN) • Power BI • Excel
+PostgreSQL 18 • SQL (CTEs, Window Functions, NTILE, CASE WHEN) • Power BI
 
 ---
 
